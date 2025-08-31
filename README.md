@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **sports & trends.**
 
-- 📫 How to reach me **pratri7868@gmail.com**
+- 📫 How to reach me **saurabhkashyap7732@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
