@@ -1,7 +1,7 @@
 [![An image of @saurabhk9919's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhk9919)](https://holopin.io/@saurabhk9919)
 
 <h1 align="center">Hi 👋, I'm Saurabh Kashyap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhk9919&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhk9919" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh52664149" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh52664149?logo=twitter&style=for-the-badge" alt="saurabh52664149" /></a> </p>
 
-- 🌱 I’m currently learning **Web Devlopment.**
+- 🌱 I’m currently learning **Backend Devlopment.**
 
 - 💬 Ask me about **sports & trends.**
 
